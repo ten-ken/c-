@@ -1,0 +1,27 @@
+﻿  Contacts.cpp
+E:\projectpath\csharp-code\ContactsMsg\ContactsMsg\Contacts.cpp(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\projectpath\csharp-code\ContactsMsg\ContactsMsg\Contacts.cpp(205,35): warning C4305: “参数”: 从“int”到“const _Elem”截断
+          with
+          [
+              _Elem=char
+          ]
+E:\projectpath\csharp-code\ContactsMsg\ContactsMsg\Contacts.cpp(205,29): warning C4309: “参数”: 截断常量值
+E:\projectpath\csharp-code\ContactsMsg\ContactsMsg\Contacts.cpp(211,35): warning C4305: “参数”: 从“int”到“const _Elem”截断
+          with
+          [
+              _Elem=char
+          ]
+E:\projectpath\csharp-code\ContactsMsg\ContactsMsg\Contacts.cpp(211,29): warning C4309: “参数”: 截断常量值
+E:\projectpath\csharp-code\ContactsMsg\ContactsMsg\Contacts.cpp(217,35): warning C4305: “参数”: 从“int”到“const _Elem”截断
+          with
+          [
+              _Elem=char
+          ]
+E:\projectpath\csharp-code\ContactsMsg\ContactsMsg\Contacts.cpp(217,29): warning C4309: “参数”: 截断常量值
+E:\projectpath\csharp-code\ContactsMsg\ContactsMsg\Contacts.cpp(223,35): warning C4305: “参数”: 从“int”到“const _Elem”截断
+          with
+          [
+              _Elem=char
+          ]
+E:\projectpath\csharp-code\ContactsMsg\ContactsMsg\Contacts.cpp(223,29): warning C4309: “参数”: 截断常量值
+  ContactsMsg.vcxproj -> E:\projectpath\csharp-code\ContactsMsg\Debug\ContactsMsg.exe
